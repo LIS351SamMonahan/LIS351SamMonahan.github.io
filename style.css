@@ -1,0 +1,33 @@
+
+body {
+	background-color:pink;
+	margin:20px 20px 20px 20px;
+}
+
+
+h1 {
+	font-family:Verdana, Helvetica, sans-serif;
+	text-align:center;
+}
+
+
+h2 {
+	font-family:Verdana, Helvetica, sans-serif;
+}
+
+
+h3 {
+	font-family:Verdana, Helvetica, sans-serif;
+}
+
+
+p {
+	font-family:Caslon, Times, serif;
+	font-size: 20px;
+}
+
+ul {
+	font-family:Caslon, Times, serif;
+	font-size: 20px;
+}
+
